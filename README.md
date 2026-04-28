@@ -4,7 +4,7 @@ C++ OOP-based ATM Management System with deposit, withdrawal, and balance check 
 
 ## 📌 About the Project
 This is a simple **ATM Management System** built using **C++**.  
-The project simulates basic ATM functionalities such as withdrawing cash, depositing money, and checking account balance. It is designed to strengthen understanding of **object-oriented programming** and core C++ c
+The project simulates basic ATM functionalities such as withdrawing cash, depositing money, and checking account balance. It is designed to strengthen understanding of **object-oriented programming** and core C++ co
 
 ## 🛠️ Technology Used
 - C++
